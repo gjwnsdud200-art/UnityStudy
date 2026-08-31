@@ -7,7 +7,7 @@ public class PlayerMovement : MonoBehaviour
     private Rigidbody2D rb;
     
     public float jumpForce = 8f;
-    public float speed = 0.1f;
+    public float speed = 10f;
 
     public Transform groundCheck;
     public LayerMask groundLayer;
@@ -17,7 +17,8 @@ public class PlayerMovement : MonoBehaviour
 
     void Move(float move)
     {
-        rb.AddForce(Vector2.right * move * speed);
+        //rb.AddForce(Vector2.right * move * speed);
+        transform.position += Vector3.right * move * speed * Time.deltaTime;
     }
 
     void Flip(float move)

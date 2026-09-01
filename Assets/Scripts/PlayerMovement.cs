@@ -86,7 +86,7 @@ public class PlayerMovement : MonoBehaviour
 
         isGround = CheckGround();
         isSlide = SlideInput();
-        Debug.Log(isGround);
+        //Debug.Log(isGround);
         float move = Input.GetAxisRaw("Horizontal");
         Move(move);
         Flip(move);

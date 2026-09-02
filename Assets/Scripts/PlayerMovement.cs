@@ -13,7 +13,7 @@ public class PlayerMovement : MonoBehaviour
     public LayerMask groundLayer;
 
     private bool isGround;
-    private bool isSlide;
+    //private bool isSlide;
 
     void Move(float move)
     {
@@ -32,17 +32,19 @@ public class PlayerMovement : MonoBehaviour
             sr.flipX = true;
         }
     }
-
+/*
    bool SlideInput()
     {
         return Input.GetKey(KeyCode.LeftControl) && isGround;
         
-    }
+    } */
     void UpdateAnimator(float move)
     {
         animator.SetBool("isGround", isGround);
         animator.SetBool("isRunning", move != 0);
-        animator.SetBool("isSlide", isSlide);
+        //animator.SetBool("isSlide", isSlide);
+
+        animator.SetFloat("VerticalSpeed", rb.linearVelocity.y);
     }
 
     bool CheckGround()
@@ -85,13 +87,13 @@ public class PlayerMovement : MonoBehaviour
 
 
         isGround = CheckGround();
-        isSlide = SlideInput();
+        //isSlide = SlideInput();
         //Debug.Log(isGround);
         float move = Input.GetAxisRaw("Horizontal");
         Move(move);
         Flip(move);
         UpdateAnimator(move);
-       
+ 
 
         //transform.position += Vector3.right * move * speed * Time.deltaTime;
 

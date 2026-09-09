@@ -72,6 +72,19 @@ public class PlayerMovement : MonoBehaviour
         }
     }
 
+    public void DisableMovement()
+    {
+        rb.linearVelocity = Vector2.zero;
+
+        animator.SetBool("isRunning", false);
+        animator.SetFloat("VerticalSpeed", 0f);
+        animator.ResetTrigger("Attack");
+
+        animator.Play("idle"); // 죽는 스프라이트가 없어서 임시용
+
+        enabled = false; // MonoBehaviour로부터 물려받은 프로퍼티
+    }
+
     /* -----------------------------------------------------------------------------------*/
     void Start()
     {

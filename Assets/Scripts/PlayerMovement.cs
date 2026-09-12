@@ -13,7 +13,15 @@ public class PlayerMovement : MonoBehaviour
     public LayerMask groundLayer;
 
     private bool isGround;
-    //private bool isSlide;
+
+    public Transform attackPoint; // 공격용 변수들
+    public float attackRange = 0.5f;
+    public int attackDamage = 20;
+    public LayerMask enemyLayer;  // 적만 공격 대상으로 하기위한 레이어.
+    private Vector3 attackPointStartPosition; 
+
+
+
 
     void Move(float move)
     {
@@ -26,10 +34,24 @@ public class PlayerMovement : MonoBehaviour
         if (move > 0)
         {
             sr.flipX = false;
+
+            attackPoint.localPosition = // 오른쪽을 볼 때 AttackPoint도 오른쪽
+                new Vector3(
+                    Mathf.Abs(attackPointStartPosition.x),
+                    attackPointStartPosition.y,
+                    attackPointStartPosition.z
+                    );
         }
         else if (move < 0)
         {
             sr.flipX = true;
+
+            attackPoint.localPosition = // 왼쪽을 볼 때 AttackPoint도 왼쪽
+                new Vector3(
+                    -Mathf.Abs(attackPointStartPosition.x),
+                    attackPointStartPosition.y,
+                    attackPointStartPosition.z
+                    );
         }
     }
 /*
@@ -69,6 +91,24 @@ public class PlayerMovement : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.J) && isGround)
         {
             animator.SetTrigger("Attack");
+
+            Collider2D[] hitEnemies = // 배열은 두마리가 겹쳐있어도 둘다 맞게 하기위해.
+                Physics2D.OverlapCircleAll( // 지정한위치와 반지름 안에 있는 Collider2D를 전부 찾는 함수
+                    attackPoint.position,
+                    attackRange,
+                    enemyLayer
+                    );
+
+            foreach (Collider2D enemy in hitEnemies)
+            {
+                EnemyHealth enemyHealth =
+                    enemy.GetComponent<EnemyHealth>();
+
+                if (enemyHealth != null)
+                {
+                    enemyHealth.TakeDamage(attackDamage);
+                }
+            }
         }
     }
 
@@ -92,6 +132,8 @@ public class PlayerMovement : MonoBehaviour
         animator = GetComponent<Animator>();
         rb = GetComponent<Rigidbody2D>();
         sr = GetComponent<SpriteRenderer>();
+
+        attackPointStartPosition = attackPoint.localPosition; // 로컬로 해야 플레이어 기준 자식오브젝트위치가됨
 
     }
 

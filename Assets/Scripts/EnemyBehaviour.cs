@@ -15,8 +15,9 @@ public class EnemyBehaviour : MonoBehaviour
     public float chaseDistance = 5f;
     public float maxChaseDistance = 8f;
 
-    private bool isChasing = false;
- 
+    private bool chaseEnd = false;
+
+
 
     public int damage = 20; // 충돌시 데미지
 
@@ -47,7 +48,7 @@ OnCollisionEnter2D가 있는지 확인
         sr = GetComponent<SpriteRenderer>();
 
         startX = transform.position.x;
-
+        chaseEnd = false;
     }
 
     void Patrol()
@@ -56,6 +57,12 @@ OnCollisionEnter2D가 있는지 확인
         transform.position +=
             Vector3.right * direction * moveSpeed * Time.deltaTime;
 
+      
+        if (Mathf.Abs(transform.position.x - startX) < 0.1f) // 원래자리로 돌아오면 다시 Chase 할수있게.
+        {
+            chaseEnd = false;
+        }
+        
         if (transform.position.x >= startX + patrolDistance)
         {
             direction = -1; // 방향 반대로.
@@ -84,7 +91,7 @@ OnCollisionEnter2D가 있는지 확인
         transform.position +=
             Vector3.right * direction * moveSpeed * Time.deltaTime;
 
- 
+        
     }
 
     
@@ -96,29 +103,23 @@ OnCollisionEnter2D가 있는지 확인
         float distanceFromStart =   // 계속해서 Chase하는걸 방지하기위해 일정거리 이상하면 다시 Patrol하게
             Mathf.Abs(transform.position.x - startX); // Mathf.Abs를 통해 오른쪽이건 왼쪽이건 음수라도 거리만 알게.
 
-        if (!isChasing)
-        {
-            if (distanceToPlayer <= chaseDistance)
-            {
-                isChasing = true;
-            }
-        }
 
-        if (isChasing)
-        {
-            if (distanceFromStart >= maxChaseDistance)
-            {
-                isChasing = false;
-            }
-        }
 
-        if (isChasing)
+        if (distanceToPlayer <= chaseDistance && distanceFromStart <= maxChaseDistance && !chaseEnd)
         {
             ChasePlayer();
+            
         }
         else 
         {
+            if (distanceFromStart >= maxChaseDistance) // 최대치에 닿으면 Chase그만하고 원래자리로 돌아가게.
+            {
+                chaseEnd = true;
+            }
             Patrol();
         }
+
+
+       
     }
 }

@@ -6,6 +6,9 @@ public class EnemyHealth : MonoBehaviour
     public int currentHealth;
 
 
+    public GameObject deathEffect;
+
+
     void Start()
     {
         currentHealth = maxHealth;
@@ -29,6 +32,13 @@ public class EnemyHealth : MonoBehaviour
     void Die()
     {
         Debug.Log("적 사망");
+
+        Instantiate( // 샐로운 게임오브젝트를 만들어내는 함수
+            deathEffect,
+            transform.position,
+            Quaternion.identity // 회전없이 기본방향으로
+            );
+
         Destroy(gameObject);
     }
     // Update is called once per frame

@@ -1,0 +1,2288 @@
+fileFormatVersion: 2
+guid: c57ecb7ad5237a447a67b31fafbaf8df
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7285257768722227289
+    second: bluepuff90x110_0
+  - first:
+      213: 8386820500146661680
+    second: bluepuff90x110_1
+  - first:
+      213: -289787634409661069
+    second: bluepuff90x110_2
+  - first:
+      213: -4259410626302758921
+    second: bluepuff90x110_3
+  - first:
+      213: 1774178775757401963
+    second: bluepuff90x110_4
+  - first:
+      213: -906484823799721474
+    second: bluepuff90x110_5
+  - first:
+      213: 100234837820793643
+    second: bluepuff90x110_6
+  - first:
+      213: -6167082582597988922
+    second: bluepuff90x110_7
+  - first:
+      213: -6994991058233364313
+    second: bluepuff90x110_8
+  - first:
+      213: -7268941559645696460
+    second: bluepuff90x110_9
+  - first:
+      213: -4970011512188849704
+    second: bluepuff90x110_10
+  - first:
+      213: 7252911134530550757
+    second: bluepuff90x110_11
+  - first:
+      213: 1762200354151247641
+    second: bluepuff90x110_12
+  - first:
+      213: 7881011631803289787
+    second: bluepuff90x110_13
+  - first:
+      213: -6264315499395819516
+    second: bluepuff90x110_14
+  - first:
+      213: -8859783077502727561
+    second: bluepuff90x110_15
+  - first:
+      213: 6484175238294446228
+    second: bluepuff90x110_16
+  - first:
+      213: -7158365437953740727
+    second: bluepuff90x110_17
+  - first:
+      213: -7841604278276026647
+    second: bluepuff90x110_18
+  - first:
+      213: 4991230556143775504
+    second: bluepuff90x110_19
+  - first:
+      213: 4248694991405306358
+    second: bluepuff90x110_20
+  - first:
+      213: -401266682377891108
+    second: bluepuff90x110_21
+  - first:
+      213: -1016009759356010326
+    second: bluepuff90x110_22
+  - first:
+      213: 1929317661391587859
+    second: bluepuff90x110_23
+  - first:
+      213: -2738091760417686111
+    second: bluepuff90x110_24
+  - first:
+      213: 118126192071838437
+    second: bluepuff90x110_25
+  - first:
+      213: 5201792730683954552
+    second: bluepuff90x110_26
+  - first:
+      213: 1675110809744719724
+    second: bluepuff90x110_27
+  - first:
+      213: -6365145686039836685
+    second: bluepuff90x110_28
+  - first:
+      213: -1699804070107311551
+    second: bluepuff90x110_29
+  - first:
+      213: -1990410450863999844
+    second: bluepuff90x110_30
+  - first:
+      213: 504580762293797775
+    second: bluepuff90x110_31
+  - first:
+      213: 7893818498260115505
+    second: bluepuff90x110_32
+  - first:
+      213: 1066669272014114400
+    second: bluepuff90x110_33
+  - first:
+      213: 8939584980124240246
+    second: bluepuff90x110_34
+  - first:
+      213: 2211026617645881458
+    second: bluepuff90x110_35
+  - first:
+      213: -4662990391858652137
+    second: bluepuff90x110_36
+  - first:
+      213: -6250870816540958723
+    second: bluepuff90x110_37
+  - first:
+      213: 8866064759420022079
+    second: bluepuff90x110_38
+  - first:
+      213: 7904470792696175713
+    second: bluepuff90x110_39
+  - first:
+      213: -7232764074617410793
+    second: bluepuff90x110_40
+  - first:
+      213: 8679627874850490346
+    second: bluepuff90x110_41
+  - first:
+      213: 8225272324439653384
+    second: bluepuff90x110_42
+  - first:
+      213: -157076564399850832
+    second: bluepuff90x110_43
+  - first:
+      213: -4746953408514552835
+    second: bluepuff90x110_44
+  - first:
+      213: -1161795596590492089
+    second: bluepuff90x110_45
+  - first:
+      213: 8197779461398072499
+    second: bluepuff90x110_46
+  - first:
+      213: -5687122244168592999
+    second: bluepuff90x110_47
+  - first:
+      213: -1779335836864586119
+    second: bluepuff90x110_48
+  - first:
+      213: 7704587317077287433
+    second: bluepuff90x110_49
+  - first:
+      213: 753477670780979345
+    second: bluepuff90x110_50
+  - first:
+      213: 6172568965555911013
+    second: bluepuff90x110_51
+  - first:
+      213: -5434636017270566895
+    second: bluepuff90x110_52
+  - first:
+      213: -1156764929704521163
+    second: bluepuff90x110_53
+  - first:
+      213: 2519756517052436568
+    second: bluepuff90x110_54
+  - first:
+      213: 7807514390372189755
+    second: bluepuff90x110_55
+  - first:
+      213: -6484600708917644487
+    second: bluepuff90x110_56
+  - first:
+      213: 6108718927083348030
+    second: bluepuff90x110_57
+  - first:
+      213: -463901175768374649
+    second: bluepuff90x110_58
+  - first:
+      213: -350062293861771225
+    second: bluepuff90x110_59
+  - first:
+      213: -2885099574529829366
+    second: bluepuff90x110_60
+  - first:
+      213: 596736069205036416
+    second: bluepuff90x110_61
+  - first:
+      213: 644990034895559700
+    second: bluepuff90x110_62
+  - first:
+      213: -446631073906640368
+    second: bluepuff90x110_63
+  - first:
+      213: -7567810452949124178
+    second: bluepuff90x110_64
+  - first:
+      213: -2730507384290361864
+    second: bluepuff90x110_65
+  - first:
+      213: -2399961098367327082
+    second: bluepuff90x110_66
+  - first:
+      213: 6678063902005811921
+    second: bluepuff90x110_67
+  - first:
+      213: -3451160982238054558
+    second: bluepuff90x110_68
+  - first:
+      213: -7697163197639967310
+    second: bluepuff90x110_69
+  - first:
+      213: -4471287940885404798
+    second: bluepuff90x110_70
+  - first:
+      213: 8403121253687537524
+    second: bluepuff90x110_71
+  - first:
+      213: -1636405950147010135
+    second: bluepuff90x110_72
+  - first:
+      213: 8037939610322256819
+    second: bluepuff90x110_73
+  - first:
+      213: 2515558001731113472
+    second: bluepuff90x110_74
+  - first:
+      213: 2520818950222158202
+    second: bluepuff90x110_75
+  - first:
+      213: 8437014410795452916
+    second: bluepuff90x110_76
+  - first:
+      213: -8656324958846816115
+    second: bluepuff90x110_77
+  - first:
+      213: 2962059544256372529
+    second: bluepuff90x110_78
+  - first:
+      213: -8831358558177703552
+    second: bluepuff90x110_79
+  - first:
+      213: -5916902808119256655
+    second: bluepuff90x110_80
+  - first:
+      213: -242318253200436460
+    second: bluepuff90x110_81
+  - first:
+      213: -6038660635335899626
+    second: bluepuff90x110_82
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bluepuff90x110_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 662
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950e7d9775f6a1560800000000000000
+      internalID: 7285257768722227289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 662
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039a4324fc8f36470800000000000000
+      internalID: 8386820500146661680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_2
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 661
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d16be8ea77afbf0800000000000000
+      internalID: -289787634409661069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_3
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 661
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff23ba4a9883e4c0800000000000000
+      internalID: -4259410626302758921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_4
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 661
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6fae0152362f9810800000000000000
+      internalID: 1774178775757401963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_5
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 664
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef192230bd48b63f0800000000000000
+      internalID: -906484823799721474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_6
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 666
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b236d6ecd0b146100800000000000000
+      internalID: 100234837820793643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_7
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 669
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd8fb3d01f1a6aa0800000000000000
+      internalID: -6167082582597988922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_8
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 671
+        width: 52
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a077fe81bcccee90800000000000000
+      internalID: -6994991058233364313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_9
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 564
+        width: 52
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e8e3cf9288f1b90800000000000000
+      internalID: -7268941559645696460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_10
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 566
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d1b166acd8f60bb0800000000000000
+      internalID: -4970011512188849704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_11
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 568
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb3b21df3487a460800000000000000
+      internalID: 7252911134530550757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_12
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 569
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91fa044b2e7947810800000000000000
+      internalID: 1762200354151247641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_13
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 570
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb05b50e25afe5d60800000000000000
+      internalID: 7881011631803289787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_14
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 571
+        width: 63
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 408d9893e3ea019a0800000000000000
+      internalID: -6264315499395819516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_15
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 572
+        width: 65
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ace6e6b3abb0580800000000000000
+      internalID: -8859783077502727561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_16
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 572
+        width: 67
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490aceb460b6cf950800000000000000
+      internalID: 6484175238294446228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_17
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 573
+        width: 70
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94075529f8068ac90800000000000000
+      internalID: -7158365437953740727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_18
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 463
+        width: 72
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee8c2c94760d2390800000000000000
+      internalID: -7841604278276026647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_19
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 464
+        width: 74
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f66030fb9644540800000000000000
+      internalID: 4991230556143775504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_20
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 490
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1d1b9859566fa30800000000000000
+      internalID: 4248694991405306358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_21
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 465
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd29aa0141a6e6af0800000000000000
+      internalID: -401266682377891108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_22
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 490
+        width: 77
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa04145c18866e1f0800000000000000
+      internalID: -1016009759356010326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_23
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 465
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a022ae03056ca10800000000000000
+      internalID: 1929317661391587859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_24
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 490
+        width: 79
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad31e90d08500ad0800000000000000
+      internalID: -2738091760417686111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_25
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 466
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea8c15552ba3a100800000000000000
+      internalID: 118126192071838437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_26
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 467
+        width: 81
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87550a3adea703840800000000000000
+      internalID: 5201792730683954552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_27
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 468
+        width: 81
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f304608603f3710800000000000000
+      internalID: 1675110809744719724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_28
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 489
+        width: 82
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f74cf7f8b57aa7a0800000000000000
+      internalID: -6365145686039836685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_29
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 488
+        width: 84
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1429d7544351968e0800000000000000
+      internalID: -1699804070107311551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_30
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 378
+        width: 84
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c94b6079d34a064e0800000000000000
+      internalID: -1990410450863999844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_31
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 377
+        width: 85
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f838409a781a00700800000000000000
+      internalID: 504580762293797775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_32
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 377
+        width: 85
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130a336d91a7c8d60800000000000000
+      internalID: 7893818498260115505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_33
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 377
+        width: 86
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ec93b2d029dce00800000000000000
+      internalID: 1066669272014114400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_34
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 376
+        width: 86
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67909bbec29cf0c70800000000000000
+      internalID: 8939584980124240246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_35
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 376
+        width: 87
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27857b58ef42fae10800000000000000
+      internalID: 2211026617645881458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_36
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 375
+        width: 87
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c9436b1fab94fb0800000000000000
+      internalID: -4662990391858652137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_37
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 374
+        width: 87
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff58336c127049a0800000000000000
+      internalID: -6250870816540958723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_38
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 374
+        width: 87
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3de6dc9ce69a0b70800000000000000
+      internalID: 8866064759420022079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_39
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 264
+        width: 39
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c1b186e4252bd60800000000000000
+      internalID: 7904470792696175713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_40
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 263
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71be83c156f00ab90800000000000000
+      internalID: -7232764074617410793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_41
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 318
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae7ca07c09b347870800000000000000
+      internalID: 8679627874850490346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_42
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 263
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80cb3178999062270800000000000000
+      internalID: 8225272324439653384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_43
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 319
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba786862b3f1ddf0800000000000000
+      internalID: -157076564399850832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_44
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 263
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb0920860f6f1eb0800000000000000
+      internalID: -4746953408514552835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_45
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 262
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7465c937f0970efe0800000000000000
+      internalID: -1161795596590492089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_46
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 262
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc00a78cfc54c170800000000000000
+      internalID: 8197779461398072499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_47
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 262
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991db1a53784311b0800000000000000
+      internalID: -5687122244168592999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_48
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 262
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e5093db778e47e0800000000000000
+      internalID: -1779335836864586119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_49
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 261
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9022f5f18513cea60800000000000000
+      internalID: 7704587317077287433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_50
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 261
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198c61113f3e47a00800000000000000
+      internalID: 753477670780979345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_51
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 260
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5697f8f35ce59a550800000000000000
+      internalID: 6172568965555911013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_52
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 261
+        width: 39
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1105b03165b4494b0800000000000000
+      internalID: -5434636017270566895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_53
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 259
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532155cdc6852ffe0800000000000000
+      internalID: -1156764929704521163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_54
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 260
+        width: 38
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850d267b339f7f220800000000000000
+      internalID: 2519756517052436568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_55
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 258
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3682e8d8fcd95c60800000000000000
+      internalID: 7807514390372189755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_56
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 260
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933b7ba13021206a0800000000000000
+      internalID: -6484600708917644487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_57
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 257
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e302281bf7786c450800000000000000
+      internalID: 6108718927083348030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_58
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 259
+        width: 37
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 782a077a654ef89f0800000000000000
+      internalID: -463901175768374649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_59
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 146
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7285c1dc234542bf0800000000000000
+      internalID: -350062293861771225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_60
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 146
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a06d48e093116f7d0800000000000000
+      internalID: -2885099574529829366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_61
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 145
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d01a51b48084800800000000000000
+      internalID: 596736069205036416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_62
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 144
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41cdd99f40773f800800000000000000
+      internalID: 644990034895559700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_63
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 168
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ab426976f3dc9f0800000000000000
+      internalID: -446631073906640368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_64
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 168
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eabba703d7cb9f690800000000000000
+      internalID: -7567810452949124178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_65
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 168
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fdbac6300a4b1ad0800000000000000
+      internalID: -2730507384290361864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_66
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 147
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6942f09b810a1bed0800000000000000
+      internalID: -2399961098367327082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_67
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 147
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da5a6aacbf3dac50800000000000000
+      internalID: 6678063902005811921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_68
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 149
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26733072f530b10d0800000000000000
+      internalID: -3451160982238054558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_69
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 148
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bdb5726ade2e2590800000000000000
+      internalID: -7697163197639967310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_70
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 148
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283a903ce4bc2f1c0800000000000000
+      internalID: -4471287940885404798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_71
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 148
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47fa4923242ed9470800000000000000
+      internalID: 8403121253687537524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_72
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 143
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a1e62955715a49e0800000000000000
+      internalID: -1636405950147010135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_73
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 147
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3cc4f1d7f7c8f60800000000000000
+      internalID: 8037939610322256819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_74
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 143
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0021311bcae09e220800000000000000
+      internalID: 2515558001731113472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_75
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 147
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a799017ba7fbbf220800000000000000
+      internalID: 2520818950222158202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_76
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 142
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f98058c7eb461570800000000000000
+      internalID: 8437014410795452916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_77
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 147
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d807697205e8ed780800000000000000
+      internalID: -8656324958846816115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_78
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 141
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13fd4fa36795b1920800000000000000
+      internalID: 2962059544256372529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_79
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 141
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08946bf8e26b07580800000000000000
+      internalID: -8831358558177703552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_80
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 31
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b95a8fbe30f2eda0800000000000000
+      internalID: -5916902808119256655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_81
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 38
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 413156325dc13acf0800000000000000
+      internalID: -242318253200436460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepuff90x110_82
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 32
+        width: 116
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6164ba7752e523ca0800000000000000
+      internalID: -6038660635335899626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bluepuff90x110_0: 7285257768722227289
+      bluepuff90x110_1: 8386820500146661680
+      bluepuff90x110_10: -4970011512188849704
+      bluepuff90x110_11: 7252911134530550757
+      bluepuff90x110_12: 1762200354151247641
+      bluepuff90x110_13: 7881011631803289787
+      bluepuff90x110_14: -6264315499395819516
+      bluepuff90x110_15: -8859783077502727561
+      bluepuff90x110_16: 6484175238294446228
+      bluepuff90x110_17: -7158365437953740727
+      bluepuff90x110_18: -7841604278276026647
+      bluepuff90x110_19: 4991230556143775504
+      bluepuff90x110_2: -289787634409661069
+      bluepuff90x110_20: 4248694991405306358
+      bluepuff90x110_21: -401266682377891108
+      bluepuff90x110_22: -1016009759356010326
+      bluepuff90x110_23: 1929317661391587859
+      bluepuff90x110_24: -2738091760417686111
+      bluepuff90x110_25: 118126192071838437
+      bluepuff90x110_26: 5201792730683954552
+      bluepuff90x110_27: 1675110809744719724
+      bluepuff90x110_28: -6365145686039836685
+      bluepuff90x110_29: -1699804070107311551
+      bluepuff90x110_3: -4259410626302758921
+      bluepuff90x110_30: -1990410450863999844
+      bluepuff90x110_31: 504580762293797775
+      bluepuff90x110_32: 7893818498260115505
+      bluepuff90x110_33: 1066669272014114400
+      bluepuff90x110_34: 8939584980124240246
+      bluepuff90x110_35: 2211026617645881458
+      bluepuff90x110_36: -4662990391858652137
+      bluepuff90x110_37: -6250870816540958723
+      bluepuff90x110_38: 8866064759420022079
+      bluepuff90x110_39: 7904470792696175713
+      bluepuff90x110_4: 1774178775757401963
+      bluepuff90x110_40: -7232764074617410793
+      bluepuff90x110_41: 8679627874850490346
+      bluepuff90x110_42: 8225272324439653384
+      bluepuff90x110_43: -157076564399850832
+      bluepuff90x110_44: -4746953408514552835
+      bluepuff90x110_45: -1161795596590492089
+      bluepuff90x110_46: 8197779461398072499
+      bluepuff90x110_47: -5687122244168592999
+      bluepuff90x110_48: -1779335836864586119
+      bluepuff90x110_49: 7704587317077287433
+      bluepuff90x110_5: -906484823799721474
+      bluepuff90x110_50: 753477670780979345
+      bluepuff90x110_51: 6172568965555911013
+      bluepuff90x110_52: -5434636017270566895
+      bluepuff90x110_53: -1156764929704521163
+      bluepuff90x110_54: 2519756517052436568
+      bluepuff90x110_55: 7807514390372189755
+      bluepuff90x110_56: -6484600708917644487
+      bluepuff90x110_57: 6108718927083348030
+      bluepuff90x110_58: -463901175768374649
+      bluepuff90x110_59: -350062293861771225
+      bluepuff90x110_6: 100234837820793643
+      bluepuff90x110_60: -2885099574529829366
+      bluepuff90x110_61: 596736069205036416
+      bluepuff90x110_62: 644990034895559700
+      bluepuff90x110_63: -446631073906640368
+      bluepuff90x110_64: -7567810452949124178
+      bluepuff90x110_65: -2730507384290361864
+      bluepuff90x110_66: -2399961098367327082
+      bluepuff90x110_67: 6678063902005811921
+      bluepuff90x110_68: -3451160982238054558
+      bluepuff90x110_69: -7697163197639967310
+      bluepuff90x110_7: -6167082582597988922
+      bluepuff90x110_70: -4471287940885404798
+      bluepuff90x110_71: 8403121253687537524
+      bluepuff90x110_72: -1636405950147010135
+      bluepuff90x110_73: 8037939610322256819
+      bluepuff90x110_74: 2515558001731113472
+      bluepuff90x110_75: 2520818950222158202
+      bluepuff90x110_76: 8437014410795452916
+      bluepuff90x110_77: -8656324958846816115
+      bluepuff90x110_78: 2962059544256372529
+      bluepuff90x110_79: -8831358558177703552
+      bluepuff90x110_8: -6994991058233364313
+      bluepuff90x110_80: -5916902808119256655
+      bluepuff90x110_81: -242318253200436460
+      bluepuff90x110_82: -6038660635335899626
+      bluepuff90x110_9: -7268941559645696460
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

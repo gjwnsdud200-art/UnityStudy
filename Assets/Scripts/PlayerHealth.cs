@@ -1,4 +1,6 @@
 using UnityEngine;
+using TMPro; // 플레이어 체력 보여주기위해.
+
 
 public class PlayerHealth : MonoBehaviour
 {
@@ -6,11 +8,14 @@ public class PlayerHealth : MonoBehaviour
     private int currentHealth;
     private bool isDead = false;
 
+    public TMP_Text hpText;
+
     void Start()
     {
         currentHealth = maxHealth;
 
-        Debug.Log("현재 체력 : " + currentHealth);
+        //Debug.Log("현재 체력 : " + currentHealth);
+        hpText.text = "HP : " + currentHealth;
 
     }
 
@@ -38,7 +43,9 @@ public class PlayerHealth : MonoBehaviour
         currentHealth -= damage;
         currentHealth = Mathf.Clamp(currentHealth, 0, maxHealth); // Mathf.Clamp(값, 최솟값, 최댓값) 체력 음수방지.
 
-        Debug.Log("현재 체력 :" + currentHealth);
+        hpText.text = "HP : " + currentHealth;
+
+        //Debug.Log("현재 체력 :" + currentHealth);
 
         if (currentHealth <= 0)
         {

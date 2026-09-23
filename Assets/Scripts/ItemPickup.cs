@@ -17,9 +17,11 @@ public class ItemPickup : MonoBehaviour
             if (inventory != null)
             {
                 inventory.AddItem(itemName);
+
+                Destroy(gameObject);// 먹으면 아이템이 사라지도록
             }
 
-            Destroy(gameObject); // 먹으면 아이템이 사라지도록
+             
         }
     }
 

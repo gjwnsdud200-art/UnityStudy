@@ -6,6 +6,7 @@ public class InventoryItem
 {
     public string itemName;
     public int amount;
+    public Sprite itemSprite;
 }
 
 
@@ -15,7 +16,7 @@ public class Inventory : MonoBehaviour
 
     public List<InventoryItem> items = new List<InventoryItem>();
 
-    public void AddItem(string itemName)
+    public void AddItem(string itemName, Sprite itemSprite)
     {
         Debug.Log("===== AddItem 시작 =====");
         Debug.Log("습득 시도 : [" + itemName + "]");
@@ -57,6 +58,8 @@ public class Inventory : MonoBehaviour
                 InventoryItem item_ = new InventoryItem();
                 item_.amount = 1;
                 item_.itemName = itemName;
+                item_.itemSprite = itemSprite;
+
                 items[i] = item_;
 
                 return;

@@ -7,6 +7,8 @@ public class InventoryUI : MonoBehaviour
     public GameObject inventoryPanel;
     public Inventory inventory;
 
+    public Transform slotContainer;
+
     private bool isOpen = false;
 
     public GameObject slotPrefab;
@@ -42,6 +44,13 @@ public class InventoryUI : MonoBehaviour
             slotUI.itemImage.sprite = item.itemSprite;
         }
     }
+
+    public void CloseInventory()
+    {
+        isOpen = false;
+        inventoryPanel.SetActive(isOpen);
+    }
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -52,7 +61,7 @@ public class InventoryUI : MonoBehaviour
         {
             GameObject newSlot = Instantiate(
                 slotPrefab,
-                inventoryPanel.transform
+                slotContainer
                 );
 
             slots.Add(newSlot);
@@ -82,6 +91,11 @@ public class InventoryUI : MonoBehaviour
             {
                 UpdateInventoryUI();
             }
+        }
+
+        if (isOpen)
+        {
+            UpdateInventoryUI();
         }
     }
 }
